@@ -1,0 +1,43 @@
+name: morning
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 14:00 UTC ≈ 10 AM ET (DST) / 9 AM ET (winter)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: blast-contact-pipeline
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - name: Run morning job
+        env:
+          SEASON: ${{ vars.SEASON || '2025' }}
+        run: python -m src.morning_job
+      - name: Commit DB + CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/blast_contact.db data/master.csv
+          git diff --staged --quiet || git commit -m "morning $(date -u +%F-%H%M)"
+          git push || true
+      - name: Upload DB artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: db-morning-${{ github.run_number }}
+          path: |
+            data/blast_contact.db
+            data/master.csv
+          retention-days: 30
