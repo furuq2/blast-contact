@@ -3,6 +3,12 @@ name: healthcheck
 on:
   schedule:
     - cron: '0 9 * * *'   # 09:00 UTC, between night and morning runs
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - '.github/workflows/**'
+      - 'requirements.txt'
   workflow_dispatch: {}
 
 permissions:

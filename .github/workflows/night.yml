@@ -3,6 +3,12 @@ name: night
 on:
   schedule:
     - cron: '30 7 * * *'   # 07:30 UTC ≈ 3:30 AM ET
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - '.github/workflows/**'
+      - 'requirements.txt'
   workflow_dispatch: {}
 
 permissions:

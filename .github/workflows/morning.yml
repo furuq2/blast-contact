@@ -3,6 +3,12 @@ name: morning
 on:
   schedule:
     - cron: '0 14 * * *'   # 14:00 UTC ≈ 10 AM ET (DST) / 9 AM ET (winter)
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - '.github/workflows/**'
+      - 'requirements.txt'
   workflow_dispatch: {}
 
 permissions:
