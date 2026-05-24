@@ -1,20 +1,20 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
 2026-05-24,Detroit Tigers,Framber Valdez,L,0.1688,0.1402,Baltimore Orioles,Brandon Young,R,0.1782,0.1313,,,Postponed
-2026-05-23,Pittsburgh Pirates,Paul Skenes,R,0.1025,0.1192,Toronto Blue Jays,Patrick Corbin,L,0.1731,0.1711,0,0,Pre-Game
-2026-05-23,Chicago White Sox,Bryan Hudson,L,0.1071,0.1192,San Francisco Giants,Adrian Houser,R,0.2120,0.1461,0,0,Pre-Game
-2026-05-23,Athletics,J.T. Ginn,R,0.1111,0.1460,San Diego Padres,Lucas Giolito,R,,0.1473,,,Scheduled
-2026-05-23,Cleveland Guardians,Slade Cecconi,R,0.1444,0.1443,Philadelphia Phillies,Zack Wheeler,R,0.1296,0.1070,0,0,Pre-Game
-2026-05-23,Los Angeles Dodgers,Roki Sasaki,R,0.1378,0.1512,Milwaukee Brewers,Robert Gasser,L,,0.1320,,,Scheduled
-2026-05-23,New York Mets,Freddy Peralta,R,0.1389,0.1370,Miami Marlins,Max Meyer,R,0.1491,0.1594,0,0,Pre-Game
-2026-05-23,Texas Rangers,Nathan Eovaldi,R,0.1569,0.1190,Los Angeles Angels,Walbert Ureña,R,0.1011,0.1581,,,Scheduled
-2026-05-23,Seattle Mariners,George Kirby,R,0.1161,0.1571,Kansas City Royals,Stephen Kolek,R,,0.1433,0,0,Pre-Game
-2026-05-23,St. Louis Cardinals,Kyle Leahy,R,0.2049,0.1550,Cincinnati Reds,Chase Petty,R,,0.1418,,,Scheduled
-2026-05-23,St. Louis Cardinals,Andre Pallante,R,0.1639,0.1550,Cincinnati Reds,Chris Paddack,R,0.1528,0.1418,0,1,In Progress
-2026-05-23,Houston Astros,Kai-Wei Teng,R,0.1399,0.1370,Chicago Cubs,Colin Rea,R,0.1585,0.1338,0,0,Pre-Game
-2026-05-23,Minnesota Twins,Taj Bradley,R,0.1369,0.1409,Boston Red Sox,Jovani Morán,L,0.1226,0.1299,0,0,Pre-Game
-2026-05-23,Washington Nationals,Jake Irvin,R,0.1504,0.1579,Atlanta Braves,Grant Holmes,R,0.1714,0.1562,0,0,Pre-Game
-2026-05-23,Colorado Rockies,Michael Lorenzen,R,0.1930,0.1243,Arizona Diamondbacks,Zac Gallen,R,0.1756,0.1236,,,Scheduled
+2026-05-23,Pittsburgh Pirates,Paul Skenes,R,0.1025,0.1192,Toronto Blue Jays,Patrick Corbin,L,0.1731,0.1711,2,5,Final
+2026-05-23,Chicago White Sox,Bryan Hudson,L,0.1071,0.1192,San Francisco Giants,Adrian Houser,R,0.2120,0.1461,3,10,Final
+2026-05-23,Athletics,J.T. Ginn,R,0.1111,0.1460,San Diego Padres,Lucas Giolito,R,,0.1473,0,2,Final
+2026-05-23,Cleveland Guardians,Slade Cecconi,R,0.1444,0.1443,Philadelphia Phillies,Zack Wheeler,R,0.1296,0.1070,0,3,Final
+2026-05-23,Los Angeles Dodgers,Roki Sasaki,R,0.1378,0.1512,Milwaukee Brewers,Robert Gasser,L,,0.1320,11,3,Final
+2026-05-23,New York Mets,Freddy Peralta,R,0.1389,0.1370,Miami Marlins,Max Meyer,R,0.1491,0.1594,1,4,Final
+2026-05-23,Texas Rangers,Nathan Eovaldi,R,0.1569,0.1190,Los Angeles Angels,Walbert Ureña,R,0.1011,0.1581,2,5,Final
+2026-05-23,Seattle Mariners,George Kirby,R,0.1161,0.1571,Kansas City Royals,Stephen Kolek,R,,0.1433,0,5,Final
+2026-05-23,St. Louis Cardinals,Kyle Leahy,R,0.2049,0.1550,Cincinnati Reds,Chase Petty,R,,0.1418,6,7,Final
+2026-05-23,St. Louis Cardinals,Andre Pallante,R,0.1639,0.1550,Cincinnati Reds,Chris Paddack,R,0.1528,0.1418,8,1,Final
+2026-05-23,Houston Astros,Kai-Wei Teng,R,0.1399,0.1370,Chicago Cubs,Colin Rea,R,0.1585,0.1338,3,0,Final
+2026-05-23,Minnesota Twins,Taj Bradley,R,0.1369,0.1409,Boston Red Sox,Jovani Morán,L,0.1226,0.1299,4,2,Final
+2026-05-23,Washington Nationals,Jake Irvin,R,0.1504,0.1579,Atlanta Braves,Grant Holmes,R,0.1714,0.1562,2,0,Final
+2026-05-23,Colorado Rockies,Michael Lorenzen,R,0.1930,0.1243,Arizona Diamondbacks,Zac Gallen,R,0.1756,0.1236,4,5,Final
 2026-05-21,New York Mets,David Peterson,L,0.1549,0.1360,Washington Nationals,Cade Cavalli,R,0.1293,0.1602,2,1,Final
 2026-05-21,Pittsburgh Pirates,Braxton Ashcraft,R,0.1351,0.1422,St. Louis Cardinals,Dustin May,R,0.1594,0.1371,6,2,Final
 2026-05-21,Toronto Blue Jays,Braydon Fisher,R,0.1565,0.1711,New York Yankees,Carlos Rodón,L,,0.1517,2,0,Final
