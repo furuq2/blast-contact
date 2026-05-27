@@ -1,20 +1,20 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
-2026-05-26,Miami Marlins,Sandy Alcantara,R,0.1440,0.1205,Toronto Blue Jays,Braydon Fisher,R,0.1613,0.1341,0,0,Pre-Game
-2026-05-26,Houston Astros,Jason Alexander,R,,0.1572,Texas Rangers,Jack Leiter,R,0.1201,0.1338,,,Pre-Game
-2026-05-26,Arizona Diamondbacks,Eduardo Rodriguez,L,0.1415,0.1179,San Francisco Giants,Tyler Mahle,R,0.1449,0.1268,,,Pre-Game
-2026-05-26,Philadelphia Phillies,Aaron Nola,R,0.1684,0.1445,San Diego Padres,Randy Vásquez,R,0.1565,0.1446,,,Scheduled
-2026-05-26,Chicago Cubs,Jordan Wicks,L,,0.1688,Pittsburgh Pirates,Braxton Ashcraft,R,0.1361,0.1395,0,0,Pre-Game
-2026-05-26,Cincinnati Reds,Chase Burns,R,0.1241,0.1571,New York Mets,David Peterson,L,0.1600,0.1520,0,0,Pre-Game
-2026-05-26,St. Louis Cardinals,Michael McGreevy,R,0.1489,0.1504,Milwaukee Brewers,Kyle Harrison,L,0.0785,0.1488,0,0,Pre-Game
-2026-05-26,Colorado Rockies,Kyle Freeland,L,0.1481,0.1366,Los Angeles Dodgers,Eric Lauer,L,0.1627,0.0976,,,Scheduled
-2026-05-26,New York Yankees,Cam Schlittler,R,0.0862,0.1566,Kansas City Royals,Bailey Falter,L,,0.1448,0,0,Pre-Game
-2026-05-26,Los Angeles Angels,Jack Kochanowicz,R,0.1638,0.1321,Detroit Tigers,Keider Montero,R,0.1320,0.1198,0,0,Pre-Game
-2026-05-26,Washington Nationals,Cade Cavalli,R,0.1340,0.1057,Cleveland Guardians,Joey Cantillo,L,0.1418,0.1429,0,0,Pre-Game
-2026-05-26,Minnesota Twins,Joe Ryan,R,0.1287,0.1462,Chicago White Sox,Sean Burke,R,0.1279,0.1170,0,0,Pre-Game
-2026-05-26,Atlanta Braves,Spencer Strider,R,,0.1395,Boston Red Sox,Ranger Suarez,L,0.1288,0.1547,0,0,Pre-Game
-2026-05-26,Tampa Bay Rays,Griffin Jax,R,0.1339,0.1654,Baltimore Orioles,Shane Baz,R,0.1273,0.1229,0,0,Pre-Game
-2026-05-26,Seattle Mariners,Emerson Hancock,R,0.1269,0.1458,Athletics,Gage Jump,L,,0.1288,,,Scheduled
+2026-05-26,Miami Marlins,Sandy Alcantara,R,0.1440,0.1205,Toronto Blue Jays,Braydon Fisher,R,0.1613,0.1341,1,8,Final
+2026-05-26,Houston Astros,Jason Alexander,R,,0.1572,Texas Rangers,Jack Leiter,R,0.1201,0.1338,7,10,Final
+2026-05-26,Arizona Diamondbacks,Eduardo Rodriguez,L,0.1415,0.1179,San Francisco Giants,Tyler Mahle,R,0.1449,0.1268,7,5,Final
+2026-05-26,Philadelphia Phillies,Aaron Nola,R,0.1684,0.1445,San Diego Padres,Randy Vásquez,R,0.1565,0.1446,4,3,Final
+2026-05-26,Chicago Cubs,Jordan Wicks,L,,0.1688,Pittsburgh Pirates,Braxton Ashcraft,R,0.1361,0.1395,1,12,Final
+2026-05-26,Cincinnati Reds,Chase Burns,R,0.1241,0.1571,New York Mets,David Peterson,L,0.1600,0.1520,7,2,Final
+2026-05-26,St. Louis Cardinals,Michael McGreevy,R,0.1489,0.1504,Milwaukee Brewers,Kyle Harrison,L,0.0785,0.1488,0,6,Final
+2026-05-26,Colorado Rockies,Kyle Freeland,L,0.1481,0.1366,Los Angeles Dodgers,Eric Lauer,L,0.1627,0.0976,6,15,Final
+2026-05-26,New York Yankees,Cam Schlittler,R,0.0862,0.1566,Kansas City Royals,Bailey Falter,L,,0.1448,15,1,Final
+2026-05-26,Los Angeles Angels,Jack Kochanowicz,R,0.1638,0.1321,Detroit Tigers,Keider Montero,R,0.1320,0.1198,10,6,Final
+2026-05-26,Washington Nationals,Cade Cavalli,R,0.1340,0.1057,Cleveland Guardians,Joey Cantillo,L,0.1418,0.1429,6,3,Final
+2026-05-26,Minnesota Twins,Joe Ryan,R,0.1287,0.1462,Chicago White Sox,Sean Burke,R,0.1279,0.1170,5,3,Final
+2026-05-26,Atlanta Braves,Spencer Strider,R,,0.1395,Boston Red Sox,Ranger Suarez,L,0.1288,0.1547,7,6,Final
+2026-05-26,Tampa Bay Rays,Griffin Jax,R,0.1339,0.1654,Baltimore Orioles,Shane Baz,R,0.1273,0.1229,1,6,Final
+2026-05-26,Seattle Mariners,Emerson Hancock,R,0.1269,0.1458,Athletics,Gage Jump,L,,0.1288,4,1,Final
 2026-05-25,Miami Marlins,Janson Junk,R,0.1942,0.1204,Toronto Blue Jays,Trey Yesavage,R,0.0741,0.1349,8,2,Final
 2026-05-25,Houston Astros,Tatsuya Imai,R,,0.1592,Texas Rangers,Kumar Rocker,R,0.1654,0.1345,9,0,Final
 2026-05-25,Arizona Diamondbacks,Merrill Kelly,R,0.2072,0.1142,San Francisco Giants,Landen Roupp,R,0.0992,0.1275,6,2,Final
