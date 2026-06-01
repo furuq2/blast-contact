@@ -1,20 +1,20 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
-2026-05-31,San Diego Padres,Griffin Canning,R,,0.1594,Washington Nationals,Zack Littell,R,0.1863,0.1434,0,0,In Progress
-2026-05-31,Kansas City Royals,Michael Wacha,R,0.1656,0.1510,Texas Rangers,Jack Leiter,R,0.1190,0.1546,0,0,Pre-Game
-2026-05-31,Los Angeles Angels,Jack Kochanowicz,R,0.1624,0.1262,Tampa Bay Rays,Shane McClanahan,L,0.1314,0.1410,0,0,In Progress
-2026-05-31,Chicago Cubs,Jordan Wicks,L,,0.1528,St. Louis Cardinals,Matthew Liberatore,L,0.1618,0.1414,,,Scheduled
-2026-05-31,Arizona Diamondbacks,Merrill Kelly,R,0.2000,0.1465,Seattle Mariners,Bryce Miller,R,,0.1244,,,Pre-Game
-2026-05-31,Minnesota Twins,Zebby Matthews,R,,0.1374,Pittsburgh Pirates,Braxton Ashcraft,R,0.1333,0.1155,0,0,In Progress
-2026-05-31,Miami Marlins,John King,L,,0.1280,New York Mets,Nolan McLean,R,0.1310,0.1320,0,0,In Progress
-2026-05-31,Philadelphia Phillies,Andrew Painter,R,0.1254,0.1511,Los Angeles Dodgers,Yoshinobu Yamamoto,R,0.1603,0.1443,0,0,Pre-Game
-2026-05-31,Milwaukee Brewers,Jacob Misiorowski,R,0.0738,0.1326,Houston Astros,Tatsuya Imai,R,,0.1493,0,0,Pre-Game
-2026-05-31,San Francisco Giants,Robbie Ray,L,0.1155,0.0958,Colorado Rockies,Tanner Gordon,R,0.1412,0.1172,0,0,Pre-Game
-2026-05-31,Boston Red Sox,Ranger Suarez,L,0.1264,0.1397,Cleveland Guardians,Tanner Bibee,R,0.1640,0.1421,0,0,In Progress
-2026-05-31,Atlanta Braves,Spencer Strider,R,0.0826,0.1537,Cincinnati Reds,Nick Lodolo,L,,0.1491,1,0,In Progress
-2026-05-31,Detroit Tigers,Keider Montero,R,0.1343,0.1478,Chicago White Sox,Sean Burke,R,0.1185,0.1305,0,0,Pre-Game
-2026-05-31,Toronto Blue Jays,Spencer Miles,R,0.0925,0.1647,Baltimore Orioles,Kyle Bradish,R,0.1306,0.1201,0,6,In Progress
-2026-05-31,New York Yankees,Will Warren,R,0.1241,0.1457,Athletics,Jacob Lopez,L,0.0993,0.1514,0,0,Pre-Game
+2026-05-31,San Diego Padres,Griffin Canning,R,,0.1594,Washington Nationals,Zack Littell,R,0.1863,0.1434,2,4,Final
+2026-05-31,Kansas City Royals,Michael Wacha,R,0.1656,0.1510,Texas Rangers,Jack Leiter,R,0.1190,0.1546,3,6,Final
+2026-05-31,Los Angeles Angels,Jack Kochanowicz,R,0.1624,0.1262,Tampa Bay Rays,Shane McClanahan,L,0.1314,0.1410,2,5,Final
+2026-05-31,Chicago Cubs,Jordan Wicks,L,,0.1528,St. Louis Cardinals,Matthew Liberatore,L,0.1618,0.1414,1,5,Final
+2026-05-31,Arizona Diamondbacks,Merrill Kelly,R,0.2000,0.1465,Seattle Mariners,Bryce Miller,R,,0.1244,2,3,Final
+2026-05-31,Minnesota Twins,Zebby Matthews,R,,0.1374,Pittsburgh Pirates,Braxton Ashcraft,R,0.1333,0.1155,3,9,Final
+2026-05-31,Miami Marlins,John King,L,,0.1280,New York Mets,Nolan McLean,R,0.1310,0.1320,1,10,Final
+2026-05-31,Philadelphia Phillies,Andrew Painter,R,0.1254,0.1511,Los Angeles Dodgers,Yoshinobu Yamamoto,R,0.1603,0.1443,1,9,Final
+2026-05-31,Milwaukee Brewers,Jacob Misiorowski,R,0.0738,0.1326,Houston Astros,Tatsuya Imai,R,,0.1493,2,0,Final
+2026-05-31,San Francisco Giants,Robbie Ray,L,0.1155,0.0958,Colorado Rockies,Tanner Gordon,R,0.1412,0.1172,19,6,Final
+2026-05-31,Boston Red Sox,Ranger Suarez,L,0.1264,0.1397,Cleveland Guardians,Tanner Bibee,R,0.1640,0.1421,9,4,Final
+2026-05-31,Atlanta Braves,Spencer Strider,R,0.0826,0.1537,Cincinnati Reds,Nick Lodolo,L,,0.1491,4,6,Final
+2026-05-31,Detroit Tigers,Keider Montero,R,0.1343,0.1478,Chicago White Sox,Sean Burke,R,0.1185,0.1305,1,2,Final
+2026-05-31,Toronto Blue Jays,Spencer Miles,R,0.0925,0.1647,Baltimore Orioles,Kyle Bradish,R,0.1306,0.1201,5,9,Final
+2026-05-31,New York Yankees,Will Warren,R,0.1241,0.1457,Athletics,Jacob Lopez,L,0.0993,0.1514,13,8,Final
 2026-05-30,San Diego Padres,Michael King,R,0.1120,0.1583,Washington Nationals,Foster Griffin,L,0.1569,0.1158,4,9,Final
 2026-05-30,Kansas City Royals,Seth Lugo,R,0.1685,0.1512,Texas Rangers,Kumar Rocker,R,0.1620,0.1558,6,7,Final
 2026-05-30,Los Angeles Angels,Reid Detmers,L,0.1185,0.1229,Tampa Bay Rays,Drew Rasmussen,R,0.1365,0.1202,14,3,Final
