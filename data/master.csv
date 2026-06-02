@@ -1,14 +1,14 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
-2026-06-01,Miami Marlins,Sandy Alcantara,R,0.1439,0.1593,Washington Nationals,Cade Cavalli,R,0.1361,0.1307,0,0,Warmup
-2026-06-01,Detroit Tigers,Ty Madden,R,,0.1264,Tampa Bay Rays,Griffin Jax,R,0.1286,0.1291,0,0,Warmup
-2026-06-01,Texas Rangers,Jacob deGrom,R,0.1410,0.1414,St. Louis Cardinals,Michael McGreevy,R,0.1516,0.1504,0,0,Pre-Game
-2026-06-01,New York Mets,Austin Warren,R,,0.1451,Seattle Mariners,Emerson Hancock,R,0.1236,0.1582,0,0,Pre-Game
-2026-06-01,Chicago White Sox,David Sandlin,R,,0.1148,Minnesota Twins,Joe Ryan,R,0.1250,0.1481,0,0,Pre-Game
-2026-06-01,San Francisco Giants,Landen Roupp,R,0.1021,0.1490,Milwaukee Brewers,Shane Drohan,L,0.1429,0.1222,0,0,Pre-Game
-2026-06-01,Colorado Rockies,Kyle Freeland,L,0.1709,0.1416,Los Angeles Angels,José Soriano,R,0.1182,0.1240,0,0,Pre-Game
-2026-06-01,Kansas City Royals,Luinder Avila,R,,0.1532,Cincinnati Reds,Lyon Richardson,R,,0.1533,0,0,Pre-Game
-2026-06-01,Los Angeles Dodgers,Emmet Sheehan,R,0.1368,0.1221,Arizona Diamondbacks,Eduardo Rodriguez,L,0.1494,0.1382,0,0,Pre-Game
+2026-06-01,Miami Marlins,Sandy Alcantara,R,0.1439,0.1593,Washington Nationals,Cade Cavalli,R,0.1361,0.1307,7,3,Final
+2026-06-01,Detroit Tigers,Ty Madden,R,,0.1264,Tampa Bay Rays,Griffin Jax,R,0.1286,0.1291,10,9,Final
+2026-06-01,Texas Rangers,Jacob deGrom,R,0.1410,0.1414,St. Louis Cardinals,Michael McGreevy,R,0.1516,0.1504,2,1,Final
+2026-06-01,New York Mets,Austin Warren,R,,0.1451,Seattle Mariners,Emerson Hancock,R,0.1236,0.1582,2,3,Final
+2026-06-01,Chicago White Sox,David Sandlin,R,,0.1148,Minnesota Twins,Joe Ryan,R,0.1250,0.1481,6,9,Final
+2026-06-01,San Francisco Giants,Landen Roupp,R,0.1021,0.1490,Milwaukee Brewers,Shane Drohan,L,0.1429,0.1222,2,16,Final
+2026-06-01,Colorado Rockies,Kyle Freeland,L,0.1709,0.1416,Los Angeles Angels,José Soriano,R,0.1182,0.1240,9,8,Final
+2026-06-01,Kansas City Royals,Luinder Avila,R,,0.1532,Cincinnati Reds,Lyon Richardson,R,,0.1533,9,2,Final
+2026-06-01,Los Angeles Dodgers,Emmet Sheehan,R,0.1368,0.1221,Arizona Diamondbacks,Eduardo Rodriguez,L,0.1494,0.1382,1,4,Final
 2026-05-31,San Diego Padres,Griffin Canning,R,,0.1594,Washington Nationals,Zack Littell,R,0.1863,0.1434,2,4,Final
 2026-05-31,Kansas City Royals,Michael Wacha,R,0.1656,0.1510,Texas Rangers,Jack Leiter,R,0.1190,0.1546,3,6,Final
 2026-05-31,Los Angeles Angels,Jack Kochanowicz,R,0.1624,0.1262,Tampa Bay Rays,Shane McClanahan,L,0.1314,0.1410,2,5,Final
