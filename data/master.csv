@@ -1,19 +1,19 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
-2026-06-20,San Diego Padres,Walker Buehler,R,0.1384,0.1514,Texas Rangers,Nathan Eovaldi,R,0.1467,0.1411,,,Scheduled
-2026-06-20,Washington Nationals,Cade Cavalli,R,0.1278,0.1311,Tampa Bay Rays,Ian Seymour,L,0.1257,0.1415,,,Scheduled
-2026-06-20,Boston Red Sox,Connelly Early,L,0.1499,0.1278,Seattle Mariners,Emerson Hancock,R,0.1327,0.1316,,,Scheduled
-2026-06-20,New York Mets,Freddy Peralta,R,0.1374,0.1364,Philadelphia Phillies,Cristopher Sánchez,L,0.1438,0.1353,,,Scheduled
-2026-06-20,Cincinnati Reds,Andrew Abbott,L,0.1332,0.1431,New York Yankees,Will Warren,R,0.1250,0.1475,0,0,Pre-Game
-2026-06-20,San Francisco Giants,Trevor McDonald,R,0.1767,0.1333,Miami Marlins,Max Meyer,R,0.1439,0.1216,,,Scheduled
-2026-06-20,Baltimore Orioles,Trevor Rogers,L,0.1443,0.1304,Los Angeles Dodgers,Yoshinobu Yamamoto,R,0.1418,0.1594,,,Scheduled
-2026-06-20,Cleveland Guardians,Joey Cantillo,L,0.1382,0.1433,Houston Astros,Spencer Arrighetti,R,0.1077,0.1084,,,Scheduled
-2026-06-20,Chicago White Sox,Sean Newcomb,L,0.1225,0.1331,Detroit Tigers,Troy Melton,R,,0.1438,0,0,Pre-Game
-2026-06-20,Pittsburgh Pirates,Paul Skenes,R,0.1101,0.1269,Colorado Rockies,Tomoyuki Sugano,R,0.1854,0.1352,,,Scheduled
-2026-06-20,Toronto Blue Jays,Patrick Corbin,L,0.1491,0.1379,Chicago Cubs,Colin Rea,R,0.1498,0.1217,,,Pre-Game
-2026-06-20,Milwaukee Brewers,Kyle Harrison,L,0.0841,0.1456,Atlanta Braves,Chris Sale,L,0.0914,0.1518,,,Scheduled
-2026-06-20,Los Angeles Angels,Walbert Ureña,R,0.1282,0.1451,Athletics,J.T. Ginn,R,0.1148,0.1265,,,Scheduled
-2026-06-20,Minnesota Twins,Taj Bradley,R,0.1447,0.1200,Arizona Diamondbacks,Zac Gallen,R,0.1816,0.1248,,,Scheduled
+2026-06-20,San Diego Padres,Walker Buehler,R,0.1384,0.1514,Texas Rangers,Nathan Eovaldi,R,0.1467,0.1411,6,4,Final
+2026-06-20,Washington Nationals,Cade Cavalli,R,0.1278,0.1311,Tampa Bay Rays,Ian Seymour,L,0.1257,0.1415,4,3,Final
+2026-06-20,Boston Red Sox,Connelly Early,L,0.1499,0.1278,Seattle Mariners,Emerson Hancock,R,0.1327,0.1316,5,1,Final
+2026-06-20,New York Mets,Freddy Peralta,R,0.1374,0.1364,Philadelphia Phillies,Cristopher Sánchez,L,0.1438,0.1353,3,15,Final
+2026-06-20,Cincinnati Reds,Andrew Abbott,L,0.1332,0.1431,New York Yankees,Will Warren,R,0.1250,0.1475,10,2,Final
+2026-06-20,San Francisco Giants,Trevor McDonald,R,0.1767,0.1333,Miami Marlins,Max Meyer,R,0.1439,0.1216,3,6,Final
+2026-06-20,Baltimore Orioles,Trevor Rogers,L,0.1443,0.1304,Los Angeles Dodgers,Yoshinobu Yamamoto,R,0.1418,0.1594,3,2,Final
+2026-06-20,Cleveland Guardians,Joey Cantillo,L,0.1382,0.1433,Houston Astros,Spencer Arrighetti,R,0.1077,0.1084,8,1,Final
+2026-06-20,Chicago White Sox,Sean Newcomb,L,0.1225,0.1331,Detroit Tigers,Troy Melton,R,,0.1438,1,4,Final
+2026-06-20,Pittsburgh Pirates,Paul Skenes,R,0.1101,0.1269,Colorado Rockies,Tomoyuki Sugano,R,0.1854,0.1352,1,2,Final
+2026-06-20,Toronto Blue Jays,Patrick Corbin,L,0.1491,0.1379,Chicago Cubs,Colin Rea,R,0.1498,0.1217,8,6,Final
+2026-06-20,Milwaukee Brewers,Kyle Harrison,L,0.0841,0.1456,Atlanta Braves,Chris Sale,L,0.0914,0.1518,3,4,Final
+2026-06-20,Los Angeles Angels,Walbert Ureña,R,0.1282,0.1451,Athletics,J.T. Ginn,R,0.1148,0.1265,7,0,Final
+2026-06-20,Minnesota Twins,Taj Bradley,R,0.1447,0.1200,Arizona Diamondbacks,Zac Gallen,R,0.1816,0.1248,16,8,Final
 2026-06-19,San Diego Padres,Randy Vásquez,R,0.1531,0.1512,Texas Rangers,Jacob deGrom,R,0.1320,0.1420,7,9,Final
 2026-06-19,Washington Nationals,Cade Cavalli,R,0.1275,0.1302,Tampa Bay Rays,Griffin Jax,R,0.1650,0.1589,2,5,Final
 2026-06-19,Boston Red Sox,Ranger Suarez,L,0.1232,0.1282,Seattle Mariners,Bryce Miller,R,0.0769,0.1320,6,2,Final
