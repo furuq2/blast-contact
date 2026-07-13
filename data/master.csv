@@ -1,20 +1,20 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
-2026-07-12,New York Yankees,Will Warren,R,0.1443,0.1552,Washington Nationals,Cade Cavalli,R,0.1230,0.1590,0,0,Pre-Game
-2026-07-12,Houston Astros,Cristian Javier,R,,0.1492,Texas Rangers,MacKenzie Gore,L,0.1434,0.1355,,,Scheduled
-2026-07-12,Seattle Mariners,Emerson Hancock,R,0.1358,0.1368,Tampa Bay Rays,Ian Seymour,L,0.1062,0.1222,0,0,Pre-Game
-2026-07-12,Atlanta Braves,JR Ritchie,R,0.1310,0.1459,St. Louis Cardinals,Dustin May,R,0.1429,0.1432,,,Scheduled
-2026-07-12,Colorado Rockies,Michael Lorenzen,R,0.1822,0.1210,San Francisco Giants,Trevor McDonald,R,0.1620,0.1252,,,Scheduled
-2026-07-12,Toronto Blue Jays,Kevin Gausman,R,0.1536,0.1344,San Diego Padres,Germán Márquez,R,,0.1215,,,Scheduled
-2026-07-12,Milwaukee Brewers,Robert Gasser,L,,0.1534,Pittsburgh Pirates,Paul Skenes,R,0.1083,0.1546,0,0,Pre-Game
-2026-07-12,Boston Red Sox,Payton Tolle,L,0.1082,0.1313,New York Mets,Zach Thornton,L,,0.1345,,,Scheduled
-2026-07-12,Los Angeles Angels,José Soriano,R,0.1331,0.1293,Minnesota Twins,Taj Bradley,R,0.1285,0.1234,,,Pre-Game
-2026-07-12,Cleveland Guardians,Joey Cantillo,L,0.1280,0.1302,Miami Marlins,Tyler Phillips,R,0.1570,0.1138,0,0,Pre-Game
-2026-07-12,Arizona Diamondbacks,Mitch Bratt,L,,0.1372,Los Angeles Dodgers,Emmet Sheehan,R,0.1287,0.1169,,,Scheduled
-2026-07-12,Philadelphia Phillies,Zack Wheeler,R,0.1220,0.1309,Detroit Tigers,Tarik Skubal,L,0.1040,0.1336,,,Pre-Game
-2026-07-12,Chicago Cubs,Matthew Boyd,L,,0.1465,Cincinnati Reds,Andrew Abbott,L,0.1360,0.1378,0,0,Pre-Game
-2026-07-12,Athletics,J.T. Ginn,R,0.1164,0.1421,Chicago White Sox,Noah Schultz,L,0.1486,0.1461,,,Scheduled
-2026-07-12,Kansas City Royals,Seth Lugo,R,0.1699,0.1540,Baltimore Orioles,Shane Baz,R,0.1424,0.1554,0,0,Pre-Game
+2026-07-12,New York Yankees,Will Warren,R,0.1443,0.1552,Washington Nationals,Cade Cavalli,R,0.1230,0.1590,5,3,Final
+2026-07-12,Houston Astros,Cristian Javier,R,,0.1492,Texas Rangers,MacKenzie Gore,L,0.1434,0.1355,5,6,Final
+2026-07-12,Seattle Mariners,Emerson Hancock,R,0.1358,0.1368,Tampa Bay Rays,Ian Seymour,L,0.1062,0.1222,8,2,Final
+2026-07-12,Atlanta Braves,JR Ritchie,R,0.1310,0.1459,St. Louis Cardinals,Dustin May,R,0.1429,0.1432,4,3,Final
+2026-07-12,Colorado Rockies,Michael Lorenzen,R,0.1822,0.1210,San Francisco Giants,Trevor McDonald,R,0.1620,0.1252,1,3,Final
+2026-07-12,Toronto Blue Jays,Kevin Gausman,R,0.1536,0.1344,San Diego Padres,Germán Márquez,R,,0.1215,4,5,Final
+2026-07-12,Milwaukee Brewers,Robert Gasser,L,,0.1534,Pittsburgh Pirates,Paul Skenes,R,0.1083,0.1546,5,14,Final
+2026-07-12,Boston Red Sox,Payton Tolle,L,0.1082,0.1313,New York Mets,Zach Thornton,L,,0.1345,3,2,Final
+2026-07-12,Los Angeles Angels,José Soriano,R,0.1331,0.1293,Minnesota Twins,Taj Bradley,R,0.1285,0.1234,2,4,Final
+2026-07-12,Cleveland Guardians,Joey Cantillo,L,0.1280,0.1302,Miami Marlins,Tyler Phillips,R,0.1570,0.1138,5,2,Final
+2026-07-12,Arizona Diamondbacks,Mitch Bratt,L,,0.1372,Los Angeles Dodgers,Emmet Sheehan,R,0.1287,0.1169,5,3,Final
+2026-07-12,Philadelphia Phillies,Zack Wheeler,R,0.1220,0.1309,Detroit Tigers,Tarik Skubal,L,0.1040,0.1336,5,0,Final
+2026-07-12,Chicago Cubs,Matthew Boyd,L,,0.1465,Cincinnati Reds,Andrew Abbott,L,0.1360,0.1378,8,4,Final
+2026-07-12,Athletics,J.T. Ginn,R,0.1164,0.1421,Chicago White Sox,Noah Schultz,L,0.1486,0.1461,1,9,Final
+2026-07-12,Kansas City Royals,Seth Lugo,R,0.1699,0.1540,Baltimore Orioles,Shane Baz,R,0.1424,0.1554,2,8,Final
 2026-07-10,New York Yankees,Ryan Weathers,L,0.1696,0.1412,Washington Nationals,Carson Palmquist,L,,0.1336,5,3,Final
 2026-07-10,Houston Astros,Hunter Brown,R,,0.1514,Texas Rangers,Cal Quantrill,R,,0.1317,3,7,Final
 2026-07-10,Seattle Mariners,Luis Castillo,R,0.1320,0.1364,Tampa Bay Rays,Nick Martinez,R,0.1489,0.1413,2,7,Final
