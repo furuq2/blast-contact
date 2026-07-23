@@ -1,5 +1,10 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
+2026-07-23,Tampa Bay Rays,Casey Legumina,R,,0.1199,Toronto Blue Jays,Shane Bieber,R,,0.1345,,,Scheduled
+2026-07-23,Arizona Diamondbacks,Brandon Pfaadt,R,0.1494,0.1458,St. Louis Cardinals,Michael McGreevy,R,0.1658,0.1181,,,Scheduled
+2026-07-23,Kansas City Royals,Randy Dobnak,R,,0.1325,Detroit Tigers,Troy Melton,R,0.1226,0.1530,,,Scheduled
+2026-07-23,Minnesota Twins,Taj Bradley,R,0.1276,0.1152,Cleveland Guardians,Gavin Williams,R,0.1622,0.1284,0,0,Pre-Game
+2026-07-23,San Diego Padres,Kyle Hart,L,,0.1394,Atlanta Braves,Chris Sale,L,0.0971,0.1281,0,0,Warmup
 2026-07-21,Tampa Bay Rays,Drew Rasmussen,R,0.1252,0.1212,Toronto Blue Jays,Kevin Gausman,R,0.1532,0.1353,12,2,Final
 2026-07-21,Chicago White Sox,Noah Schultz,L,0.1607,0.1108,Texas Rangers,Kumar Rocker,R,0.1534,0.1409,0,10,Final
 2026-07-21,Cincinnati Reds,Chase Burns,R,0.1024,0.1400,Seattle Mariners,Luis Castillo,R,0.1319,0.1432,4,2,Final
@@ -142,7 +147,6 @@ Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs
 2026-06-25,Philadelphia Phillies,Cristopher Sánchez,L,0.1402,0.1407,Washington Nationals,Cade Cavalli,R,0.1318,0.1377,10,5,Final
 2026-06-25,Texas Rangers,MacKenzie Gore,L,0.1516,0.1243,Toronto Blue Jays,Kevin Gausman,R,0.1312,0.1532,6,5,Final
 2026-06-25,Kansas City Royals,Seth Lugo,R,0.1709,0.1297,Tampa Bay Rays,Casey Legumina,R,,0.1553,2,13,Final
-2026-06-25,Arizona Diamondbacks,Zac Gallen,R,0.1792,0.1481,St. Louis Cardinals,Michael McGreevy,R,0.1487,0.1205,,,Postponed
 2026-06-25,Athletics,Jeffrey Springs,L,0.1380,0.1186,San Francisco Giants,Landen Roupp,R,0.1165,0.1444,9,6,Final
 2026-06-25,Seattle Mariners,Bryce Miller,R,0.0777,0.1368,Pittsburgh Pirates,Bubba Chandler,R,0.0993,0.1452,1,5,Final
 2026-06-25,Chicago Cubs,Matthew Boyd,L,,0.1341,New York Mets,Freddy Peralta,R,0.1347,0.1364,4,3,Final
