@@ -1,20 +1,20 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
-2026-08-02,St. Louis Cardinals,Matthew Liberatore,L,0.1505,0.1175,Toronto Blue Jays,Max Scherzer,R,,0.1478,0,0,Pre-Game
-2026-08-02,Chicago White Sox,Anthony Kay,L,0.1523,0.1275,Tampa Bay Rays,Griffin Jax,R,0.1542,0.1419,0,0,Pre-Game
-2026-08-02,Minnesota Twins,Taj Bradley,R,0.1288,0.1389,Seattle Mariners,George Kirby,R,0.1385,0.1290,,,Scheduled
-2026-08-02,San Francisco Giants,Landen Roupp,R,0.1023,0.1401,San Diego Padres,Michael King,R,0.1250,0.1212,,,Scheduled
-2026-08-02,Miami Marlins,Sandy Alcantara,R,0.1350,0.1522,New York Mets,Robert Stock,R,,0.1438,,,Scheduled
-2026-08-02,Boston Red Sox,Jake Bennett,L,0.1519,0.1406,Los Angeles Dodgers,Emmet Sheehan,R,0.1288,0.1265,,,Scheduled
-2026-08-02,Milwaukee Brewers,Jacob Misiorowski,R,0.0713,0.1226,Los Angeles Angels,Walbert Ureña,R,0.1178,0.1521,,,Scheduled
-2026-08-02,Texas Rangers,Kumar Rocker,R,0.1482,0.1353,Houston Astros,Peter Lambert,R,0.1228,0.1467,,,Scheduled
-2026-08-02,Kansas City Royals,Seth Lugo,R,0.1701,0.1232,Colorado Rockies,Kyle Freeland,L,0.1924,0.1516,,,Scheduled
-2026-08-02,Arizona Diamondbacks,Merrill Kelly,R,0.1890,0.1142,Cleveland Guardians,Gavin Williams,R,0.1573,0.1219,0,0,Pre-Game
-2026-08-02,Pittsburgh Pirates,Mitch Keller,R,0.1475,0.1419,Cincinnati Reds,Chase Burns,R,0.0986,0.1347,0,0,Pre-Game
-2026-08-02,New York Yankees,Gerrit Cole,R,0.1302,0.1310,Chicago Cubs,Colin Rea,R,0.1429,0.1566,,,Scheduled
-2026-08-02,Philadelphia Phillies,Zack Wheeler,R,0.1202,0.1543,Baltimore Orioles,Kyle Bradish,R,0.1301,0.1410,0,0,Pre-Game
-2026-08-02,Washington Nationals,Cade Cavalli,R,0.1229,0.1412,Atlanta Braves,JR Ritchie,R,0.1292,0.1545,,,Pre-Game
-2026-08-02,Detroit Tigers,Keider Montero,R,0.1289,0.1390,Athletics,Gage Jump,L,0.1481,0.1370,,,Scheduled
+2026-08-02,St. Louis Cardinals,Matthew Liberatore,L,0.1505,0.1175,Toronto Blue Jays,Max Scherzer,R,,0.1478,5,1,Final
+2026-08-02,Chicago White Sox,Anthony Kay,L,0.1523,0.1275,Tampa Bay Rays,Griffin Jax,R,0.1542,0.1419,9,1,Final
+2026-08-02,Minnesota Twins,Taj Bradley,R,0.1288,0.1389,Seattle Mariners,George Kirby,R,0.1385,0.1290,6,7,Final
+2026-08-02,San Francisco Giants,Landen Roupp,R,0.1023,0.1401,San Diego Padres,Michael King,R,0.1250,0.1212,4,5,Final
+2026-08-02,Miami Marlins,Sandy Alcantara,R,0.1350,0.1522,New York Mets,Robert Stock,R,,0.1438,2,0,Final
+2026-08-02,Boston Red Sox,Jake Bennett,L,0.1519,0.1406,Los Angeles Dodgers,Emmet Sheehan,R,0.1288,0.1265,8,4,Final
+2026-08-02,Milwaukee Brewers,Jacob Misiorowski,R,0.0713,0.1226,Los Angeles Angels,Walbert Ureña,R,0.1178,0.1521,0,3,Final
+2026-08-02,Texas Rangers,Kumar Rocker,R,0.1482,0.1353,Houston Astros,Peter Lambert,R,0.1228,0.1467,3,7,Final
+2026-08-02,Kansas City Royals,Seth Lugo,R,0.1701,0.1232,Colorado Rockies,Kyle Freeland,L,0.1924,0.1516,1,8,Final
+2026-08-02,Arizona Diamondbacks,Merrill Kelly,R,0.1890,0.1142,Cleveland Guardians,Gavin Williams,R,0.1573,0.1219,0,5,Final
+2026-08-02,Pittsburgh Pirates,Mitch Keller,R,0.1475,0.1419,Cincinnati Reds,Chase Burns,R,0.0986,0.1347,2,10,Final
+2026-08-02,New York Yankees,Gerrit Cole,R,0.1302,0.1310,Chicago Cubs,Colin Rea,R,0.1429,0.1566,2,1,Final
+2026-08-02,Philadelphia Phillies,Zack Wheeler,R,0.1202,0.1543,Baltimore Orioles,Kyle Bradish,R,0.1301,0.1410,8,0,Completed Early
+2026-08-02,Washington Nationals,Cade Cavalli,R,0.1229,0.1412,Atlanta Braves,JR Ritchie,R,0.1292,0.1545,2,4,Final
+2026-08-02,Detroit Tigers,Keider Montero,R,0.1289,0.1390,Athletics,Gage Jump,L,0.1481,0.1370,11,0,Final
 2026-08-01,St. Louis Cardinals,Quinn Mathews,L,,0.1179,Toronto Blue Jays,Kevin Gausman,R,0.1487,0.1471,1,5,Final
 2026-08-01,Chicago White Sox,Jordan Hicks,R,,0.1361,Tampa Bay Rays,Drew Rasmussen,R,0.1211,0.1415,0,1,Final
 2026-08-01,Minnesota Twins,Connor Prielipp,L,0.1335,0.1251,Seattle Mariners,Logan Gilbert,R,0.1254,0.1285,3,4,Final
