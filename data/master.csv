@@ -1,15 +1,15 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
-2026-08-10,Boston Red Sox,Sonny Gray,R,0.1492,0.1191,Toronto Blue Jays,Jameson Taillon,R,0.1682,0.1277,,,Scheduled
-2026-08-10,Philadelphia Phillies,Andrew Painter,R,0.1241,0.1482,St. Louis Cardinals,Hunter Dobbins,R,,0.1412,,,Scheduled
-2026-08-10,Houston Astros,Hayden Wesneski,R,,0.1202,San Francisco Giants,Blade Tidwell,R,,0.1336,,,Scheduled
-2026-08-10,Milwaukee Brewers,Logan Henderson,R,0.1231,0.1395,San Diego Padres,Casey Mize,R,0.1316,0.1521,,,Scheduled
-2026-08-10,Baltimore Orioles,Trevor Rogers,L,0.1407,0.1282,Minnesota Twins,Dean Kremer,R,,0.1552,,,Scheduled
-2026-08-10,Kansas City Royals,Noah Cameron,L,0.1516,0.1387,Los Angeles Dodgers,Tarik Skubal,L,0.1023,0.1513,,,Scheduled
-2026-08-10,Texas Rangers,MacKenzie Gore,L,0.1375,0.1312,Los Angeles Angels,Reid Detmers,L,0.1328,0.1182,,,Scheduled
-2026-08-10,New York Mets,Christian Scott,R,0.0719,0.1425,Atlanta Braves,Bryce Elder,R,0.1667,0.1506,,,Scheduled
-2026-08-10,Tampa Bay Rays,Freddy Peralta,R,0.1265,0.1378,Athletics,Jacob Lopez,L,0.0957,0.1274,,,Scheduled
-2026-08-10,Colorado Rockies,Gabriel Hughes,R,,0.1217,Arizona Diamondbacks,Michael Soroka,R,0.1350,0.1251,,,Scheduled
+2026-08-10,Boston Red Sox,Sonny Gray,R,0.1492,0.1191,Toronto Blue Jays,Jameson Taillon,R,0.1682,0.1277,1,2,Final
+2026-08-10,Philadelphia Phillies,Andrew Painter,R,0.1241,0.1482,St. Louis Cardinals,Hunter Dobbins,R,,0.1412,6,5,Final
+2026-08-10,Houston Astros,Hayden Wesneski,R,,0.1202,San Francisco Giants,Blade Tidwell,R,,0.1336,6,3,Final
+2026-08-10,Milwaukee Brewers,Logan Henderson,R,0.1231,0.1395,San Diego Padres,Casey Mize,R,0.1316,0.1521,2,3,Final
+2026-08-10,Baltimore Orioles,Trevor Rogers,L,0.1407,0.1282,Minnesota Twins,Dean Kremer,R,,0.1552,5,9,Final
+2026-08-10,Kansas City Royals,Noah Cameron,L,0.1516,0.1387,Los Angeles Dodgers,Tarik Skubal,L,0.1023,0.1513,5,6,Final
+2026-08-10,Texas Rangers,MacKenzie Gore,L,0.1375,0.1312,Los Angeles Angels,Reid Detmers,L,0.1328,0.1182,4,1,Final
+2026-08-10,New York Mets,Christian Scott,R,0.0719,0.1425,Atlanta Braves,Bryce Elder,R,0.1667,0.1506,8,5,Final
+2026-08-10,Tampa Bay Rays,Freddy Peralta,R,0.1265,0.1378,Athletics,Jacob Lopez,L,0.0957,0.1274,10,6,Final
+2026-08-10,Colorado Rockies,Gabriel Hughes,R,,0.1217,Arizona Diamondbacks,Michael Soroka,R,0.1350,0.1251,0,9,Final
 2026-08-08,Cincinnati Reds,Chase Burns,R,0.0963,0.1541,Washington Nationals,Andrew Alvarez,L,0.1735,0.1452,2,8,Final
 2026-08-08,Baltimore Orioles,Kyle Bradish,R,0.1317,0.1458,Texas Rangers,Jacob deGrom,R,0.1339,0.1545,1,5,Final
 2026-08-08,Colorado Rockies,Kyle Freeland,L,0.1898,0.1546,St. Louis Cardinals,Matthew Liberatore,L,0.1481,0.1064,8,6,Final
