@@ -1,20 +1,20 @@
 Date,Away,Away SP,Hand,Away SP Blast Contact% Allowed,Home Bat Blast Contact% vs SP Hand,Home,Home SP,Hand,Home SP Blast Contact% Allowed,Away Bat Blast Contact% vs SP Hand,Away R,Home R,Status
 2026-09-22,Tampa Bay Rays,Drew Rasmussen,R,0.1285,0.1710,New York Yankees,Ryan Weathers,L,0.1623,0.1280,,,Postponed
-2026-08-16,New York Yankees,Ryan Weathers,L,0.1661,0.1116,Toronto Blue Jays,Dylan Cease,R,0.0922,0.1577,,,Scheduled
-2026-08-16,Baltimore Orioles,Trevor Rogers,L,0.1406,0.1258,Tampa Bay Rays,Freddy Peralta,R,0.1276,0.1566,,,Pre-Game
-2026-08-16,Colorado Rockies,Gabriel Hughes,R,,0.1220,San Francisco Giants,Blade Tidwell,R,,0.1252,,,Scheduled
-2026-08-16,Boston Red Sox,Patrick Sandoval,L,,0.1407,Pittsburgh Pirates,Lake Bachar,R,0.1353,0.1266,,,Pre-Game
-2026-08-16,Washington Nationals,Jake Irvin,R,0.1391,0.1510,New York Mets,Christian Scott,R,0.0740,0.1505,,,Scheduled
-2026-08-16,Philadelphia Phillies,Andrew Painter,R,0.1185,0.1291,Minnesota Twins,Dean Kremer,R,,0.1408,,,Scheduled
-2026-08-16,Milwaukee Brewers,Logan Henderson,R,0.1284,0.1394,Los Angeles Dodgers,Tarik Skubal,L,0.1035,0.1524,,,Scheduled
-2026-08-16,Kansas City Royals,Noah Cameron,L,0.1562,0.1340,Los Angeles Angels,Ryan Johnson,R,0.1394,0.1534,,,Scheduled
-2026-08-16,Seattle Mariners,Bryan Woo,R,0.1184,0.1336,Houston Astros,Hunter Brown,R,0.1033,0.1378,,,Scheduled
-2026-08-16,Chicago White Sox,Sean Burke,R,0.1152,0.1301,Detroit Tigers,Drew Anderson,R,0.1290,0.1398,,,Scheduled
-2026-08-16,San Diego Padres,Casey Mize,R,0.1366,0.1132,Cleveland Guardians,Tanner Bibee,R,0.1446,0.1408,,,Scheduled
-2026-08-16,Miami Marlins,Eury Pérez,R,0.1065,0.1405,Cincinnati Reds,Nick Lodolo,L,0.1587,0.1268,,,Scheduled
-2026-08-16,St. Louis Cardinals,Hunter Dobbins,R,,0.1281,Chicago Cubs,Edward Cabrera,R,0.1546,0.1469,,,Scheduled
-2026-08-16,Arizona Diamondbacks,Michael Soroka,R,0.1284,0.1416,Atlanta Braves,Bryce Elder,R,0.1707,0.1208,,,Scheduled
-2026-08-16,Texas Rangers,Cody Bradford,L,,0.1417,Athletics,Jacob Lopez,L,0.0953,0.1221,,,Scheduled
+2026-08-16,New York Yankees,Ryan Weathers,L,0.1661,0.1116,Toronto Blue Jays,Dylan Cease,R,0.0922,0.1577,4,3,Final
+2026-08-16,Baltimore Orioles,Trevor Rogers,L,0.1406,0.1258,Tampa Bay Rays,Freddy Peralta,R,0.1276,0.1566,10,2,Final
+2026-08-16,Colorado Rockies,Gabriel Hughes,R,,0.1220,San Francisco Giants,Blade Tidwell,R,,0.1252,13,7,Final
+2026-08-16,Boston Red Sox,Patrick Sandoval,L,,0.1407,Pittsburgh Pirates,Lake Bachar,R,0.1353,0.1266,3,8,Final
+2026-08-16,Washington Nationals,Jake Irvin,R,0.1391,0.1510,New York Mets,Christian Scott,R,0.0740,0.1505,3,4,Final
+2026-08-16,Philadelphia Phillies,Andrew Painter,R,0.1185,0.1291,Minnesota Twins,Dean Kremer,R,,0.1408,7,5,Final
+2026-08-16,Milwaukee Brewers,Logan Henderson,R,0.1284,0.1394,Los Angeles Dodgers,Tarik Skubal,L,0.1035,0.1524,6,2,Final
+2026-08-16,Kansas City Royals,Noah Cameron,L,0.1562,0.1340,Los Angeles Angels,Ryan Johnson,R,0.1394,0.1534,3,0,Final
+2026-08-16,Seattle Mariners,Bryan Woo,R,0.1184,0.1336,Houston Astros,Hunter Brown,R,0.1033,0.1378,3,2,Final
+2026-08-16,Chicago White Sox,Sean Burke,R,0.1152,0.1301,Detroit Tigers,Drew Anderson,R,0.1290,0.1398,7,5,Final
+2026-08-16,San Diego Padres,Casey Mize,R,0.1366,0.1132,Cleveland Guardians,Tanner Bibee,R,0.1446,0.1408,5,0,Final
+2026-08-16,Miami Marlins,Eury Pérez,R,0.1065,0.1405,Cincinnati Reds,Nick Lodolo,L,0.1587,0.1268,7,1,Final
+2026-08-16,St. Louis Cardinals,Hunter Dobbins,R,,0.1281,Chicago Cubs,Edward Cabrera,R,0.1546,0.1469,11,4,Final
+2026-08-16,Arizona Diamondbacks,Michael Soroka,R,0.1284,0.1416,Atlanta Braves,Bryce Elder,R,0.1707,0.1208,3,5,Final
+2026-08-16,Texas Rangers,Cody Bradford,L,,0.1417,Athletics,Jacob Lopez,L,0.0953,0.1221,2,5,Final
 2026-08-13,Chicago Cubs,Kevin Gausman,R,0.1554,0.1526,Washington Nationals,Cade Cavalli,R,0.1288,0.1287,0,7,Final
 2026-08-13,Boston Red Sox,Payton Tolle,L,0.1044,0.1127,Toronto Blue Jays,Max Scherzer,R,,0.1275,7,0,Final
 2026-08-13,Seattle Mariners,Logan Gilbert,R,0.1311,0.1564,New York Yankees,Max Fried,L,0.1185,0.1251,1,0,Final
